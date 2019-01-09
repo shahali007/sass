@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d32f5af1-1532-46b8-966d-1615bb1a2fde" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/ss.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/ss.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/ss.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/ss.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/ss.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/ss.scss" afterDir="false" />
@@ -33,8 +32,8 @@
       <file leaf-file-name="ss.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/ss.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="82" column="13" lean-forward="true" selection-start-line="82" selection-start-column="13" selection-end-line="82" selection-end-column="13" />
+            <state relative-caret-position="238">
+              <caret line="35" column="24" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -173,12 +172,12 @@
       <workItem from="1546947657015" duration="17000" />
       <workItem from="1546948650167" duration="1132000" />
       <workItem from="1547011100708" duration="2251000" />
-      <workItem from="1547015015847" duration="2611000" />
+      <workItem from="1547015015847" duration="2865000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16562000" />
+    <option name="totallyTimeSpent" value="16816000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -209,6 +208,9 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/css/ss.scss">
@@ -302,8 +304,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/ss.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="82" column="13" lean-forward="true" selection-start-line="82" selection-start-column="13" selection-end-line="82" selection-end-column="13" />
+        <state relative-caret-position="238">
+          <caret line="35" column="24" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
         </state>
       </provider>
     </entry>
