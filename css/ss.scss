@@ -1,83 +1,29 @@
 /*
- === Developer Information ===
+=== Developer Information ===
  * Developer    : Shahali Bogdadi
  * Designation  : Web Developer
  * Organization : PRAN-RFL Group
  * Department   : Jagonews24.com
 
- === Project Information ===
+=== Project Information ===
  * Project      : SASS practice v1.
  * Time         : Jan 09, 2019
- */
 
-$font-stack:    Helvetica, sans-serif;
-$primary-color: #333;
-$inline-block: inline-block;
-$anchor-color: blue;
-$p-l-15 :15px;
-$p-r-15 :15px;
-$m-l-n15 :-15px;
-$m-r-n15 :-15px;
-$col-1:8.33%;
-$col-2:16.66%;
-$col-3:25%;
-$col-4:33.33%;
-$col-5:41.66%;
-$col-6:50%;
-$col-7:58.33%;
-$col-8:66.66%;
-$col-9:75%;
-$col-10:83.33%;
-$col-11:91.66%;
-$col-12:100%;
+====================================*/
 
-body {
-  font: 100% $font-stack;
-  color: $primary-color;
-}
 
-p{
-  color: $primary-color;
-  a{
-    color: $anchor-color;
-  }
-}
-.container{
-  margin: auto;
-  width: 1240px;
-  padding-left: $p-l-15;
-  padding-right: $p-r-15;
-}
-.row{
-  margin-right: $m-r-n15;
-  margin-left: $m-l-n15;
-}
-.col-1{width:$col-1}
-.col-2{width:$col-2}
-.col-3{width:$col-3}
-.col-4{width:$col-4}
-.col-5{width:$col-5}
-.col-6{width:$col-6}
-.col-7{width:$col-7}
-.col-8{width:$col-8}
-.col-9{width:$col-9}
-.col-10{width:$col-10}
-.col-11{width:$col-11}
-.col-12{width:$col-12}
+@import "color";
+@import "spacing";
+@import "grid";
+@import "custom";
+@import "transform";
 
-.col-1,
-.col-2,
-.col-3,
-.col-4,
-.col-5,
-.col-6,
-.col-7,
-.col-8,
-.col-9,
-.col-10,
-.col-11,
-.col-12{
-  padding-left: $p-l-15;
-  padding-right: $p-r-15;
-  float:left;
-}
+
+
+
+
+
+
+
+
+

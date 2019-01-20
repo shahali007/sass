@@ -1,0 +1,21 @@
+/*=== grid css ===*/
+.container{
+  margin: auto;
+  width: 1240px;
+  padding-left: $px15;
+  padding-right: $px15;
+}
+.row{
+  margin-right: $px-n15;
+  margin-left: $px-n15;
+}
+
+$class-slug: col !default;
+$grid:12;
+$single-grid:100 / $grid;
+@for $i from 1 through $grid{
+  .#{$class-slug}-#{$i}, .#{$class-slug}-sm-#{$i}, .#{$class-slug}-md-#{$i}, .#{$class-slug}-lg-#{$i}{
+    width: $single-grid * $i + 1% - 1;
+    float:left;
+  }
+}

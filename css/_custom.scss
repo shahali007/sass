@@ -1,0 +1,28 @@
+/*=== nav css ===*/
+body {
+  font: 100% Helvetica, sans-serif;
+  color: #333;
+}
+nav{
+  width:100%;
+  border-bottom:1px solid $lightgray;
+  padding-top: $px15;
+  padding-bottom: $px15;
+  margin-bottom: $px15;
+
+  & .navbar-logo{
+    color: $blue;
+  }
+  ul{
+    list-style: none;
+    li{}
+  }
+}
+
+.my_box{
+  color:$indigo;
+}
+.text-red{
+  color: $blue;
+}
+
